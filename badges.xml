@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <?xml-stylesheet type="text/xsl" href="badges.xsl"?>
+        <badgelist>
+            <badge>
+                <badgename>Adventure Badge</badgename>
+                <description>There are four things you need to do for this badge: • Know how to prepare for a one-day expedition to the countryside. The correct clothing, footwear, food and First Aid kit are all important parts to this. • Take part in two outdoor expeditions or journeys with other Cub Scouts. • Build and light a fire or use a stove and then make a hot drink (with adults watching!) • Find your way along a route of at least one kilometre using one of these methods: o compass o map o landmarks o tracking signs. </description>
+                <imagePath>img/badges/adventure.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Air Activities</badgename>
+                <description>There are three parts to this badge: • Know the dangers involved in visiting an airfield. • Visit an aerodrome, air display or air museum. • Choose three activities from the list below: o Make and fly: a model aeroplane, three different types of paper glider, a hot-air balloon, or a kite o Identify six airlines and their nationalities from their markings o Name and identify the main parts of an aeroplane o Assemble a plastic model aeroplane o Name and identify the different types of aircraft (such as powered aeroplanes, airships and gliders.) o Fly in an aircraft and share your experience with the Pack o Explain how different weather conditions can affect air activities. o Collect and identify six different pictures of aircraft and share them with other Cub Scouts. </description>
+                <imagePath>img/badges/air_activities.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Animal Carer</badgename>
+                <description>There are lots of fun activities to do for this badge. You only need to choose three from the ones below: • Visit a zoo or wildlife park. Find out about some of the feeding habits and natural habitats of the animals you see. • Take care of a pet for three months and know the correct foods to give it. Be able to recognise and prevent common illnesses and know how to treat them. • Help to care for a farm animal and know the correct food to give it. Know how to recognise common illnesses and what special care is needed before and after the birth of farm animals. • Keep a record of bird, animal and/or insect life in their garden or local area/park. You can use pictures, sketches, photographs or tape recordings. • Know six different freshwater, seawater or tropical fish and what types of foods they eat. • Find out about the dangers in the countryside that threaten wildlife. Then, make a poster, collage or drawing about it or tell your Pack. </description>
+                <imagePath>img/badges/animal_carer.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Artist</badgename>
+                <description>You can have some messy fun AND get a badge with the Art badge! Choose three of the activities listed below and make sure one of them is done in the presence of a Leader. • Draw a picture of any imaginary incident, character or scene. You can use pencils, brushes, pens or crayons. • Design and make a greetings card. • Make a poster advertising Cub Scouting or a Cub Scout event. • Make a design and print it on paper or fabric - you could use a potato with the design cut out of it. • Design and make a decorated book cover. • Draw or paint a picture of a still life or landscape. It could be outside your house or Meeting Place. A still life is a collection of items arranged on a table. This could be a vase with flowers. • Make a display of photographs on a subject that interests you. What about horses or Sponge Bob? • Make a video about something that you like. • Design and build a model of something. You could also make one from clay and fire it in a kiln (only with adults!) • Visit an art gallery. </description>
+                <imagePath>img/badges/artist.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Astronomer</badgename>
+                <description>Complete ALL of the following: • Make a model or draw a simple diagram of the solar system • Explain the difference between a planet and a star • Identify three constellations • Find out about and present some information on two of the following: planets, comets, the Northern Lights, the sun, eclipses, meteorites, black holes, the moon, light years, space exploration or any other space related subject • Look at the moon, using binoculars or a telescope if you can. Describe some of its features • Know how to find and recognise the pole star or southern star. • Know how explorers used it to find out which way to go </description>
+                <imagePath>img/badges/astronomer.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Book Reader</badgename>
+                <description>Become a bookworm with this badge. You have to complete all four of these activities: • Make a list of at least six books you have read or used recently. Then, tell your Leader or other members of the Pack something about three of the books. • Show that you understand how to care for your books. You could tell your Leader about how you make sure you don’t spill food or drinks on the book. • Show that you can use a dictionary, encyclopaedia and an atlas. Perhaps get your Leader to ask you to find the spelling of a word or a country in the world. • Explain to a Leader how the books in a library are set out and how you would find fiction and non-fiction books. </description>
+                <imagePath>img/badges/book_reader.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Collector</badgename>
+                <description>There are four parts to this badge that you must complete: 1. Start collecting something you like. These could be stamps, coins or fossils. Once you have at least 10 you will have enough for the next part of the badge requirements. 2. Display your collection in an exciting and interesting way. 3. Talk about the items in your collection, perhaps the ones that you like the most. 4. Visit or look at a collection made by someone else and talk to your Pack about what you liked or disliked about the presentation of it. </description>
+                <imagePath>img/badges/collector.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Cyclist</badgename>
+                <description>TYou will need to complete all eight parts to get your Cyclist Badge 1. Own or have regular use of a bicycle of a suitable size and a cycle helmet. 2. Be able to mount and dismount your bike properly. 3. Understand the need for keeping the bike in a roadworthy condition, and how to do this. 4. Be able to clean and oil a bike. Show how to pump up the tyres and how to mend a puncture. 5. Understand the need for keeping a bike locked when leaving it unattended. 6. Show knowledge of the rules and signals for cyclists from The Highway Code. 7. Understand the need for lights and reflective clothing. Discuss with your Leader or other Cub Scouts the safety measures necessary for riding in poor conditions. </description>
+                <imagePath>img/badges/cyclist.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>DIY</badgename>
+                <description>You must complete three parts to gain your DIY Badge: 1. Show the safe use of, and how to take care of, tools such as a hammer, a saw, a screwdriver, spanners, pliers, a hand-drill, a glue gun etc. 2. Show how to prepare and paint a vertical surface with paintbrushes, roller or pad and show how to clean them. 3. Help design and make two of these items: o a nesting box or window box o a box for storing tools, pencils, tapes, etc. o a rack for keys, mugs or coats o book-ends or bookstand o a shoe rack o noticeboard for camp o letter holder o towel rail. </description>
+                <imagePath>img/badges/diy.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Entertainer</badgename>
+                <description>Do you like taking part in shows for your parents or school? Then why not go for your Entertainer Badge. You will need to carry out at least two of the performances listed below to achieve this badge. You can do it with other Cub Scouts or you can go solo: • Help to make up a mime or play and perform it • Perform a puppet play or shadowgraph using puppets, which you have made. • Help to plan and make an entertainment recorded on video or audiotape. • Sing two songs. • Perform some folk or traditional dances. • Make a selection of simple rhythm instruments and use them as accompaniments. • Take part in a gymnastic display. • Make up and perform a dance to a piece of music of their own choice. • Help plan and perform a series of magic tricks. • Take part in a Gang Show, concert or band performance. </description>
+                <imagePath>img/badges/entertainer.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Hobbies</badgename>
+                <description>There are four activities to complete for the Hobbies Badge: 1. Show a continuing interest in your chosen hobby, interest or activity for two months. 2. Show your Leader, or other Cub Scouts, how you pursue your hobby, interest or activity. Show what equipment, materials and background information they you used. 3. Talk to your Leader about how you plan to develop your hobby, interest or skill in the future. 4. Know the safety rules relating to the hobby (if this is necessary. Not needed for coin or toy collecting!) </description>
+                <imagePath>img/badges/hobbies.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Map Reader</badgename>
+                <description>Complete ALL of the following: • Know how to use the key of an Ordnance Survey map • Be able to use six figure grid references • Explain how to find north on a map and how to set a map to north • Locate your home and Pack Meeting Place on an ordnance survey or street map • Understand contour lines on an Ordnance Survey map • Be able to identify 10 Ordnance Survey map symbols • Use an Ordnance Survey map during an outdoor activity • Know the eight points of a compass and use them during an outdoor activity </description>
+                <imagePath>img/badges/map_reader.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Martial Arts</badgename>
+                <description>You must complete these three activities. 1. Take part in a Martial Arts activity for at least three months and show how you are getting better. 2. Discuss with a Leader the skills needed and the rules to be observed. 3. Take part in one exhibition or competition. </description>
+                <imagePath>img/badges/martial_arts.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>My Faith</badgename>
+                <description>You must find out more about four of the following aspects about yout faith. • Important objects at your place of worship. • Your favourite religious songs. • Names of people, their titles and what they do at your place of worship. • Special festivals and customs. • Stories from your religion. These could be from books, videos or other sources. • Your favourite prayers. </description>
+                <imagePath>img/badges/myfaith.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Naturalist</badgename>
+                <description>You must complete three of these activities to get your Cub Naturalist Badge: • Make a survey of a hedgerow or wild area. Be able to identify at least six species of wild flowers, grasses or ferns. • Keep a record of birds they have spotted over one week. Be able to identify at least six wild birds • Make a survey of a pond, river, stream or seashore. Be able to identify some of the animals, insects or plant life they find. • Explore the insect life of a particular area. Be able to identify some of the types of insect you find. • Identify six different trees or shrubs from their leaves, shape, fruit or nuts and make a bark rubbing • Identify six butterflies and/or moths and talk to a Leader about their life cycle. </description>
+                <imagePath>img/badges/naturalist.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Physical Recreation</badgename>
+                <description>You must complete these five activities to get your Physical Recreation Badge: 1. Show a good sporting attitude in all games and sports that you take part in 2. Tell a Leader about the sports you take part in. Find out as much as you can about the sports, especially the rules. 3. Show reasonable skill and take part regularly in at least one of your chosen sports. 4. Bring along the clothing and equipment for the sport you have chosen and how to look after it. 5. Tell a Leader about what training and preparation you have done for the sport and when and how you practise. </description>
+                <imagePath>img/badges/physical_recreation.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Road Safety</badgename>
+                <description>You must complete these six activities to get your Road Safety Badge: 1. Draw or photograph 10 different traffic signs and explain what they mean. 2. Show how to use the Green Cross Code. 3. Tell a Leader about the importance of zebra, pelican, or other crossings and know how to use them safely. 4. Show you know how to behave safely as a car passenger. 5. Show how to use a public telephone or mobile telephone and know how to make an emergency telephone call. 6. Make a poster to promote road safety to pedestrians. </description>
+                <imagePath>img/badges/road_safety.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Skater</badgename>
+                <description>There are four activities to skate your way to this badge! 1. Own, or have used, in-line, quad or ice skates, or a skateboard for at least three months. 2. Know some safety rules regarding skating on a road and in other public places. Show what clothing and protective equipment (helmet, knee pads, elbow pads and so on) is appropriate to be worn for the chosen activity. 3. Show how to start, stop and turn safely. 4. Show how to fall safely and regain balance. </description>
+                <imagePath>img/badges/skater.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>Sport Enthusiast</badgename>
+                <description>There are five activities to complete to get your Sports Enthusiast Badge: 1. Know the rules and laws for a sport and explain them to an adult. 2. Have a good background knowledge of the teams and sports personalities of your chosen sport. 3. Explain what equipment is needed for the sport. 4. Be able to list some major events for your chosen sport. 5. Give a description of sports events that you have attended. If this is not possible, explain to a Leader how you keep up to date with your sport. </description>
+                <imagePath>img/badges/sport_enthusiast.gif</imagePath>
+            </badge>
+            <badge>
+                <badgename>World Faiths</badgename>
+                <description>You have four activities to complete for this badge: 1. Visit a place of worship other than your own and find out some information about the building, its contents and its form of worship. 2. Meet someone who belongs to a faith or denomination other than your own. Find out how they put their faith into practice. 3. Find out about the holy places associated with a faith other than your own. 4. Find out about the religious festivals and customs associated with a faith other than your own. </description>
+                <imagePath>img/badges/world_faiths.gif</imagePath>
+            </badge>
+            </badgelist>

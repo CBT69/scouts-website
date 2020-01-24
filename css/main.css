@@ -1,0 +1,130 @@
+/* General page syle*/
+#wrapper {
+    font-family: verdana, geneva, sans sans-serif;
+    font-size:14px;
+}
+.bg-1 {
+    background-color:floralwhite;
+}
+
+.bg-2 {
+    background-color:beige;
+}
+
+.bg-3 {
+    background-color:burlywood;
+}
+
+.bg-4{
+    background-color:floralwhite;
+}
+
+.main-body {
+    background-color:antiquewhite;
+    min-height: 800px;
+    max-width: 1200px;
+    text-align: center;
+    padding: 20px;
+    margin-top:100px;
+}
+
+.news-art {
+  background-color: bisque;
+    margin-bottom: 10px;
+}
+
+.news-head {
+    background-color: darkolivegreen;
+}
+
+.news-title {
+    float:left;
+    color: bisque;
+    text-align: left;
+    width: 50%;
+}
+.news-date {
+    float:right;
+    color: bisque;
+    text-align: right;
+    width: 50%;
+}
+
+.left-panel {
+    background-color:antiquewhite;
+    font-size: 12px;
+
+}
+
+.right-panel {
+    background-color:antiquewhite;
+    font-size: 14px;
+}
+
+.img-c {
+   margin: 0 auto;
+}
+
+/*Footer CSS*/
+.footer {
+    background-color:darkolivegreen;
+    min-height: 25px;
+    text-align: center;
+    color:burlywood;
+    font-size: 11px;
+    padding:2px;
+}
+
+/*NAVBAR CSS*/
+.brand{
+    color:bisque;
+    text-decoration:none;
+    vertical-align: middle;
+    font-weight: bolder;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.brand:hover {
+    text-decoration: none;
+}
+.navbar-nav {
+    text-decoration: none;
+}
+
+.li-shadow{
+    box-shadow: rgba(0, 0, 0, 0.25) 3px 3px 3px 3px;
+}
+
+.navbar-default {       
+    background-color:darkolivegreen;
+    font-size: 14px;
+    font-weight: bolder;
+    padding-top: 10px;
+    height:100px;
+    vertical-align: middle;
+    color:darkgoldenrod;
+}
+
+a.navbar-nav {
+    text-decoration: none;
+}
+       
+.navbar-default .navbar-nav>li>a {
+    color:bisque;
+    background-color:darkolivegreen;       
+    border: 1px solid burlywood; 
+    border-radius: 15px 30px;
+    padding: 10px;       
+    margin-right margin-left: 5px;
+    margin-top:20px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+}
+
+
+.navbar-nav>li>a:hover {
+    color:chocolate;
+    background-color:olive;
+    font-weight: bold;
+    border:2px solid coral;
+}
